@@ -58,3 +58,4 @@ console.log("Now I have", me.shoeCount, "pairs of shoes.");
 
 me.favoriteColor = 'navy blue';
 console.log("My favorite color is", me.favoriteColor);
+console.log("Here is what to know about me:", me);
